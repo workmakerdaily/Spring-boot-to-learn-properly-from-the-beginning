@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "david",
+      "type": "com.example.demo.entity.David",
+      "sourceType": "com.example.demo.SburRestDemoApplication",
+      "sourceMethod": "com.example.demo.entity.David createDavid() "
+    },
+    {
+      "name": "greeting",
+      "type": "com.example.demo.entity.Greeting",
+      "sourceType": "com.example.demo.entity.Greeting"
+    }
+  ],
+  "properties": [
+    {
+      "name": "david.nationality",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.entity.David"
+    },
+    {
+      "name": "david.taste",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.entity.David"
+    },
+    {
+      "name": "greeting.food",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.entity.Greeting"
+    },
+    {
+      "name": "greeting.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.entity.Greeting"
+    }
+  ],
+  "hints": []
+}
